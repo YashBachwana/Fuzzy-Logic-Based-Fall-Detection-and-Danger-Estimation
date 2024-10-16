@@ -1,6 +1,6 @@
 # Fuzzy Logic Based Fall Detection and Danger Estimation App
 
-This project implements a Fuzzy Logic-based Android/iOS app that monitors accelerometer data to detect falls and assess the level of danger using sound and motion data. If the danger level is high, the app sends an alert with the GPS location and sound recording to another phone.
+This project implements a Fuzzy logic-based Android/iOS app that monitors accelerometer data to detect falls and assess the level of danger using sound and motion data. If the danger level is high, the app sends an alert with the GPS location and sound recording to another phone.
 
 ## Features
 1. **Fall Detection**: Monitors the accelerometer data to detect falls when the app is ON.
